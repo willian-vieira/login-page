@@ -1,3 +1,7 @@
+# Figma Layout
+
+This project was developed based on this layout: [Figma](https://www.figma.com/design/7T1wkErczpMOBeqtpVjMSb/Login-Page-Design?node-id=6-920&p=f&t=JJN2L8Eoar1gtXF6-0)
+
 # LoginPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
